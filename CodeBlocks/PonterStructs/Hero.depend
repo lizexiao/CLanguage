@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1723123454 source:/mnt/sdb/Projects/CodeBlocks/PonterStructs/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hero.h"
+
+1723123360 /mnt/sdb/Projects/CodeBlocks/PonterStructs/Hero.h
+	<stdio.h>
+	<stdlib.h>
+
+1723123460 source:/mnt/sdb/Projects/CodeBlocks/PonterStructs/Hero.c
+	"Hero.h"
+

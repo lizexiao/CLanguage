@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1723466620 source:/mnt/sdb/Projects/CodeBlocks/HeroDemo/Hero.c
+	"Hero.h"
+
+1723466620 /mnt/sdb/Projects/CodeBlocks/HeroDemo/Hero.h
+
+1723466644 source:/mnt/sdb/Projects/CodeBlocks/HeroDemo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hero.h"
+
+1723556104 source:/mnt/sdb/Projects/CodeBlocks/19.0_Review/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Hero.h"
+
+1723555851 /mnt/sdb/Projects/CodeBlocks/19.0_Review/Hero.h
+
+1723556688 source:/mnt/sdb/Projects/CodeBlocks/19.0_Review/Hero.c
+	"Hero.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

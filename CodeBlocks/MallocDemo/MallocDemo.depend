@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722583774 source:/mnt/sdb/Projects/CodeBlocks/MallocDemo/main.c
+	<stdio.h>
+	<stdlib.h>
+

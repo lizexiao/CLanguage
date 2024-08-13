@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723014499 source:/mnt/sdb/Projects/CodeBlocks/CommonStringOperationFunctions/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

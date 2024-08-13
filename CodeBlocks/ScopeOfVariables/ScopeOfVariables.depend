@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722675596 source:/mnt/sdb/Projects/CodeBlocks/ScopeOfVariables/main.c
+	<stdio.h>
+	<stdlib.h>
+

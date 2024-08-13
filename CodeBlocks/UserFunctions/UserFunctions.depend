@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722669463 source:/mnt/sdb/Projects/CodeBlocks/UserFunctions/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

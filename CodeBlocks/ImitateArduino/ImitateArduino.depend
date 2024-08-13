@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1722604048 source:/mnt/sdb/Projects/CodeBlocks/ImitateArduino/Arduino.c
+	"Arduino.h"
+
+1722603803 /mnt/sdb/Projects/CodeBlocks/ImitateArduino/Arduino.h
+
+1722604110 source:/mnt/sdb/Projects/CodeBlocks/ImitateArduino/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arduino.h"
+

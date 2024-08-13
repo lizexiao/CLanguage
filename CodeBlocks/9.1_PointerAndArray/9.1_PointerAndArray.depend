@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722079673 source:/mnt/sdb/Projects/CodeBlocks/9.1_PointerAndArray/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721564190 source:/mnt/sdb/Projects/CodeBlocks/6.3_NumberSequence/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

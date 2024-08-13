@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721412917 source:/mnt/sdb/Projects/CodeBlocks/HelloWorld/main.c
+	<stdio.h>
+	<stdlib.h>
+

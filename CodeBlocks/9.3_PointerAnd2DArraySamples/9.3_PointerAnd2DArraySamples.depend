@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722409777 source:/mnt/sdb/Projects/CodeBlocks/9.3_PointerAnd2DArraySamples/main.c
+	<stdio.h>
+	<stdlib.h>
+

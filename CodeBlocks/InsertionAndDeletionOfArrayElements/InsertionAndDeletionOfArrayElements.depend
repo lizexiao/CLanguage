@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721653817 source:/mnt/sdb/Projects/CodeBlocks/InsertionAndDeletionOfArrayElements/main.c
+	<stdio.h>
+	<stdlib.h>
+

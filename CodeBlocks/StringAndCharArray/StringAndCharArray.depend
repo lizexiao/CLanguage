@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723008830 source:/mnt/sdb/Projects/CodeBlocks/StringAndCharArray/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
