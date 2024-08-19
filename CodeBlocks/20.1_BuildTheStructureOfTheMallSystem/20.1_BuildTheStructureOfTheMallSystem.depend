@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724048175 source:/mnt/sdb/Projects/CLanguage/CodeBlocks/20.1_BuildTheStructureOfTheMallSystem/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
